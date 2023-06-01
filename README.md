@@ -1,4 +1,4 @@
-# SVM_microbiome_autism
+# ML_microbiome_autism
 predicting Autism disorder spectrum with SVM and Random Forest classifiers
 
 This project was a quick start project for a customer who wanted to see the capabilities of "classical" machine learning predictors on microbiome data
